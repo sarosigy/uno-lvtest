@@ -1,0 +1,15 @@
+{
+  "solution": {
+    "path": "lvtest.sln",
+    "projects": [
+		"lvtest.Shared\\lvtest.Shared.shproj",
+
+
+
+		"lvtest.Wasm\\lvtest.Wasm.csproj",
+
+
+		"lvtest.Skia.Gtk\\lvtest.Skia.Gtk.csproj",
+    ]
+  }
+}
